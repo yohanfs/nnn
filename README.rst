@@ -17,13 +17,13 @@ Manual
 
 Navigation
 
-    q: quit
+    - q: quit
 
 Files
 
-    n: buat file atau folder
-    d: menampilan info detail sebuah file/folder
-    e: open file 
+    - n: buat file atau folder
+    - d: menampilan info detail sebuah file/folder
+    - e: open file 
 
 **Referensi**
 
